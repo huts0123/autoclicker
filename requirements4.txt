@@ -1,0 +1,8 @@
+PyAutoGUI==0.9.54
+PyQt5.QtCore
+PyQt5.QtWidgets
+keyboard==0.13.5
+random
+sys
+threading
+time
